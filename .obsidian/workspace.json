@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devops/MySQL.md",
+                "file": "AWS/TIL - What is CFN-Hup.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devops/MySQL.md",
+                "file": "AWS/TIL - What is CFN-Hup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Devops/MySQL.md",
+                "file": "AWS/TIL - What is CFN-Hup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Devops/MySQL.md"
+                "file": "AWS/TIL - What is CFN-Hup.md"
               }
             }
           }
@@ -185,15 +185,15 @@
   },
   "active": "36d505296cb1f90e",
   "lastOpenFiles": [
-    "AWS/RDS.md",
+    "AWS.md",
+    "Dev/Git.md",
     "Devops/MySQL.md",
+    "AWS/RDS.md",
     "AWS/Artefact Store.md",
     "AWS/Fargate.md",
     "AWS/DynamoDB.md",
     "AWS/Cloudformation.md",
     "AWS/Cloud9.md",
-    "AWS/CDK.md",
-    "AWS/AWS Summit 2022.md",
-    "AWS/AWS Sam.md"
+    "AWS/CDK.md"
   ]
 }
