@@ -7,12 +7,14 @@ I use AWS a lot in my job, these are just things I've picked up based on the var
 	* [[IAM]]
 	* [[Lambdas]]
 		* [[Fargate]]
+		* [[AWS Sam]]
 * IAC
 	* [[CDK]]
 	* [[Cloudformation]]
 	* [[AWS Sam]]
 * CI/CD
 	* [[CodePipeline]]
+	* [[Artefact Store]]
 * Identity
 	* [[IAM]]
 	* [[SSO]]

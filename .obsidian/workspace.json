@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS.md",
+                "file": "Linux/KDE Neon.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS.md",
+                "file": "Linux/KDE Neon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS.md",
+                "file": "Linux/KDE Neon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS.md"
+                "file": "Linux/KDE Neon.md"
               }
             }
           }
@@ -203,15 +203,15 @@
   },
   "active": "343641f158e5a404",
   "lastOpenFiles": [
+    "Homepage.md",
+    "Devops.md",
+    "AWS.md",
     "AWS/Cloudformation.md",
     "AWS/TIL - What is CFN-Hup.md",
-    "AWS.md",
     "Dev/Git.md",
     "Devops/MySQL.md",
     "AWS/RDS.md",
     "AWS/Artefact Store.md",
-    "AWS/Fargate.md",
-    "AWS/DynamoDB.md",
-    "AWS/Cloud9.md"
+    "AWS/Fargate.md"
   ]
 }
