@@ -213,4 +213,8 @@ DBInstanceIdentifier: 'rds-instance'
 }
 ```
 
-- This ONLY applies to updates, so update:delete etc, an actual deletion of the stack relies on the IAM role, so use termination protection instead
+- This ONLY applies to updates, so update:delete etc, an actual deletion of the stack relies on the IAM role, so use termination protection instead.
+
+## CFN-Hup
+#blog #til #tech/aws
+CFN-Hup is a cloudformation daemon that detects and applies changes to the EC2 instance it's running on.

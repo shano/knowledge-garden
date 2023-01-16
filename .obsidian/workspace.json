@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/TIL - What is CFN-Hup.md",
+                "file": "AWS/Cloudformation.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/TIL - What is CFN-Hup.md",
+                "file": "AWS/Cloudformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/TIL - What is CFN-Hup.md",
+                "file": "AWS/Cloudformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/TIL - What is CFN-Hup.md"
+                "file": "AWS/Cloudformation.md"
               }
             }
           }
@@ -185,6 +185,7 @@
   },
   "active": "36d505296cb1f90e",
   "lastOpenFiles": [
+    "AWS/TIL - What is CFN-Hup.md",
     "AWS.md",
     "Dev/Git.md",
     "Devops/MySQL.md",
@@ -193,7 +194,6 @@
     "AWS/Fargate.md",
     "AWS/DynamoDB.md",
     "AWS/Cloudformation.md",
-    "AWS/Cloud9.md",
-    "AWS/CDK.md"
+    "AWS/Cloud9.md"
   ]
 }
