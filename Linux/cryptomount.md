@@ -1,0 +1,1 @@
+- When using grub rescue you can use `cryptomount -a` to try decrypt any disks grubs spots

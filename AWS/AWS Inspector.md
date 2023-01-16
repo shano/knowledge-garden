@@ -1,0 +1,2 @@
+- Alerts and Reports would be helpful [[AWS Missing Features]]
+- The results look scary, but if you're not cleaning old images they vulnerabilities of old images will inflate this number

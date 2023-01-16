@@ -1,0 +1,2 @@
+- From [[AWS Summit 2022]]
+	- Fargate supports autoscaling options that include `FARGATE` or `FARGATE_SPOT` for spot pricing.

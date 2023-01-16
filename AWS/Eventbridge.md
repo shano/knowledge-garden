@@ -1,0 +1,4 @@
+- From [[AWS Summit 2022]]
+	- Eventbridge can translate a lot of useful internal Amazon events into a call to say a Lamdba so you can drive custom behaviour from those events. For example: high vulnerabilities in your pushed ECR image could trigger lambda to fire off an alert(or delete the image).
+- Replacing SNS -> SQS with Eventbridge -> SQS is not a drop in replacement that gives a free registery. Calls to [[SNS]] would need to be replaced.
+	- A wrapper library to make the transition transparent would be the ideal first step.

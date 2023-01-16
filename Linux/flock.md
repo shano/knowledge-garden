@@ -1,0 +1,1 @@
+- Run a command with a lock `/usr/bin/flock -n /tmp/cmd.lockfile cmd`
