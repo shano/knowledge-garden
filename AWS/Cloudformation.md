@@ -176,15 +176,15 @@ DBInstanceIdentifier: 'rds-instance'
 #### Cloudformation with [Parameter Store](Parameter Store)
 ```
 {
-"AWSTemplateFormatVersion": "2010-09-09",
-"Resources" : {
-"MyS3Bucket": {
-"Type": "AWS==S3==Bucket",
-"Properties": {
-"AccessControl": "{{resolve:ssm:S3AccessControl:1}}"
-}
-}
-}
+	"AWSTemplateFormatVersion": "2010-09-09",
+	"Resources" : {
+		"MyS3Bucket": {
+			"Type": "AWS==S3==Bucket",
+			"Properties": {
+				"AccessControl": "{{resolve:ssm:S3AccessControl:1}}"
+			}
+		}
+	}
 }  
 ```
 
@@ -199,8 +199,9 @@ DBInstanceIdentifier: 'rds-instance'
 	* Stack Policy
 		* Applied to one stack only
 		* Under console, Advanced Option in Cloudformation
-{
+
 ```
+{
 "Statement" : [
 	{
 		"Effect" : "Allow",
@@ -213,8 +214,7 @@ DBInstanceIdentifier: 'rds-instance'
 		"Action" : "Update:/",
 		"Principal": "*",
 		"Resource" : "LogicalResourceId/ProductionDatabase"
-	}
-]
+	}]
 }
 ```
 
