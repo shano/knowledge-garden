@@ -185,8 +185,10 @@ DBInstanceIdentifier: 'rds-instance'
 }
 }
 }
-}  ```
-* *Safeguarding Cloudformation*
+}  
+```
+
+* Safeguarding Cloudformation
 	* Termination Protection
 		* Prompts disabling
 		* Set IAM role to ensure only specific users can change termination protection
@@ -197,20 +199,21 @@ DBInstanceIdentifier: 'rds-instance'
 	* Stack Policy
 		* Applied to one stack only
 		* Under console, Advanced Option in Cloudformation
-		* ```{
-```"Statement" : [
 {
-"Effect" : "Allow",
-"Action" : "Update:/",
-"Principal": "/",
-"Resource" : "/"
-},
-{
-"Effect" : "Deny",
-"Action" : "Update:/",
-"Principal": "*",
-"Resource" : "LogicalResourceId/ProductionDatabase"
-}
+```
+"Statement" : [
+	{
+		"Effect" : "Allow",
+		"Action" : "Update:/",
+		"Principal": "/",
+		"Resource" : "/"
+	},
+	{
+		"Effect" : "Deny",
+		"Action" : "Update:/",
+		"Principal": "*",
+		"Resource" : "LogicalResourceId/ProductionDatabase"
+	}
 ]
 }
 ```
