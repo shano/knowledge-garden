@@ -1,7 +1,7 @@
 
 ### Cloudformation Designer
 * Useful for validating cloudformation
-* "Create Template in Designer"
+#### Create Template in Designer
 * Looks like a good way to build up a rough template, has neat links between entities
 * Can use it along with reference guide to start building up the required fields, which aren't shown in the designer or augment it by copy-pasting template samples in.
 * Cmd-Space allows you to autocomplete elements in your template
