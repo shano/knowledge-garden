@@ -8,12 +8,12 @@
 ### StackSets
 * Cloudformation is regional, so for Multi-Account/Multi-Region business
 * User maintaining a stack across many accounts would need admin access to all.
-* *Hub and Spoke Model*
+* Hub and Spoke Model
 	* Hub is the Shared Services Account
 		* Can assume roles in many child accounts
 		* Then can deploy stacks in all child accounts
 	* Spoke is the Child Account
-	* *Roles*
+	* Roles
 		* Hub needs an IAM role for the spokes
 		* So Hub has a role, that give it access to *STS Assume Role*
 			* This STS Assume role lets them take the role of child accounts.
