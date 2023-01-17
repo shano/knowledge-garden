@@ -72,12 +72,13 @@ Value: !Ref NestedCall
 
 
 ### Changeset
-	l	- Proposed changes to a stack
+- Proposed changes to a stack
 - Awesome for reviewing changes before applying the change.
-	* You can also review the creation of the template by creating a changeset, not the stack.
+* You can also review the creation of the template by creating a changeset, not the stack.
+
 ### Tips for building templates
-	* Use an existing template
-	* Just google for sample templates for the particular service you want here or find [here](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-services-us-west-2.html)
+-  Use an existing template
+* Just google for sample templates for the particular service you want here or find [here](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-services-us-west-2.html)
 * [Cloudformation Templates](Cloudformation Templates)
 	* AWS Console
 		* You can import the file directly
