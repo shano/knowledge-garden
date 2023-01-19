@@ -42,37 +42,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2166661280a17c80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Devops/Serverless.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "07e470c626db00f6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "343641f158e5a404",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/flock.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -140,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/flock.md",
+                "file": "AWS/Artefact Store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/flock.md",
+                "file": "AWS/Artefact Store.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/flock.md"
+                "file": "AWS/Artefact Store.md"
               }
             }
           }
@@ -201,17 +170,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "343641f158e5a404",
+  "active": "3b152d3241d0087f",
   "lastOpenFiles": [
+    "AWS/Cloudformation.md",
+    "AWS/DynamoDB.md",
+    "Devops/Serverless.md",
+    "AWS/Artefact Store.md",
+    "Linux/flock.md",
     "Linux/KDE Neon.md",
     "Linux/snap.md",
-    "AWS/Cloudformation.md",
     "Linux/Linux.md",
     "Homepage.md",
-    "Devops.md",
-    "AWS.md",
-    "AWS/TIL - What is CFN-Hup.md",
-    "Dev/Git.md",
-    "Devops/MySQL.md"
+    "Devops.md"
   ]
 }
