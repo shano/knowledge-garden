@@ -68,26 +68,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/KDE Neon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1baa06ab3c474a02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/KDE Neon.md",
+                "file": "Linux/flock.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/KDE Neon.md",
+                "file": "Linux/flock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/KDE Neon.md",
+                "file": "Linux/flock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/KDE Neon.md"
+                "file": "Linux/flock.md"
               }
             }
           }
@@ -214,17 +201,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "1baa06ab3c474a02",
+  "active": "343641f158e5a404",
   "lastOpenFiles": [
-    "AWS/Cloudformation.md",
     "Linux/KDE Neon.md",
+    "Linux/snap.md",
+    "AWS/Cloudformation.md",
     "Linux/Linux.md",
     "Homepage.md",
     "Devops.md",
     "AWS.md",
     "AWS/TIL - What is CFN-Hup.md",
     "Dev/Git.md",
-    "Devops/MySQL.md",
-    "AWS/RDS.md"
+    "Devops/MySQL.md"
   ]
 }
