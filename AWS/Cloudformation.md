@@ -1,28 +1,28 @@
 
 ### Cloudformation Designer
 * Useful for validating cloudformation
-#### Create Template in Designer
+* "Create Template in Designer"
 * Looks like a good way to build up a rough template, has neat links between entities
 * Can use it along with reference guide to start building up the required fields, which aren't shown in the designer or augment it by copy-pasting template samples in.
 * Cmd-Space allows you to autocomplete elements in your template
 ### StackSets
 * Cloudformation is regional, so for Multi-Account/Multi-Region business
 * User maintaining a stack across many accounts would need admin access to all.
-* Hub and Spoke Model
+* *Hub and Spoke Model*
 	* Hub is the Shared Services Account
 		* Can assume roles in many child accounts
 		* Then can deploy stacks in all child accounts
 	* Spoke is the Child Account
-	* Roles
-		* Hub needs an IAM role for the spokes
-		* So Hub has a role, that give it access to *STS Assume Role*
-			* This STS Assume role lets them take the role of child accounts.
-			* Documentation for setting up roles [here](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/stacksets-prereqs-self-managed.html)
+* *Roles*
+	* Hub needs an IAM role for the spokes
+	* So Hub has a role, that give it access to *STS Assume Role*
+		* This STS Assume role lets them take the role of child accounts.
+	* Documentation for setting up roles [here](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/stacksets-prereqs-self-managed.html)
 * Basically once setup you can create Stacksets on the admin(or hub) and this will act on the child accounts.
 	* You can pass in AccountIds to submit to those children.
 ### Stacks
 * Collection of resources
-* Use the stacks on CloudFormation to get a good status of deploys.
+* Use the stacks on cloudformation to get a good status of deploys.
 	* Events
 	* Resources
 		* Custom Resources
@@ -33,8 +33,7 @@
 	* Nested Stack is stored in an S3 bucket
 		* Called using S3 url
 		* Example: S3 bucket with output
-```
-AWSTemplateFormatVersion: '2010-09-09'
+```AWSTemplateFormatVersion: '2010-09-09'
 Resources:
 S3Bucket:
 Type: AWS==S3==Bucket
@@ -46,7 +45,7 @@ Resources:
 NestedCall:
 Type: AWS==CloudFormation==Stack
 Properties:
-TemplateURL: https://testbucket.s3-us-west-2.amazonaws.com/s3cft.yml
+TemplateURL: https://udemycdkbucket.s3-us-west-2.amazonaws.com/s3cft.yml
 TimeoutInMinutes: 60
 Outputs:
 StackRef:
@@ -63,7 +62,7 @@ Type: AWS==CloudFormation==Stack
 Properties:
 Parameters:
 SNSEmail: !Ref Emailaddress
-TemplateURL: https://testbucket.s3-us-west-2.amazonaws.com/sns_parameter_example.json
+TemplateURL: https://udemycdkbucket.s3-us-west-2.amazonaws.com/sns_parameter_example.json
 TimeoutInMinutes: 60
 Outputs:
 StackRef:
@@ -72,13 +71,12 @@ Value: !Ref NestedCall
 
 
 ### Changeset
-- Proposed changes to a stack
-- Awesome for reviewing changes before applying the change.
-* You can also review the creation of the template by creating a changeset, not the stack.
-
+	* Proposed changes to a stack
+	* Awesome for reviewing changes before applying the change.
+	* You can also review the creation of the template by creating a changeset, not the stack.
 ### Tips for building templates
--  Use an existing template
-* Just google for sample templates for the particular service you want here or find [here](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-services-us-west-2.html)
+	* Use an existing template
+	* Just google for sample templates for the particular service you want here or find [here](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-services-us-west-2.html)
 * [Cloudformation Templates](Cloudformation Templates)
 	* AWS Console
 		* You can import the file directly
@@ -176,19 +174,17 @@ DBInstanceIdentifier: 'rds-instance'
 #### Cloudformation with [Parameter Store](Parameter Store)
 ```
 {
-	"AWSTemplateFormatVersion": "2010-09-09",
-	"Resources" : {
-		"MyS3Bucket": {
-			"Type": "AWS==S3==Bucket",
-			"Properties": {
-				"AccessControl": "{{resolve:ssm:S3AccessControl:1}}"
-			}
-		}
-	}
-}  
-```
-
-* Safeguarding Cloudformation
+"AWSTemplateFormatVersion": "2010-09-09",
+"Resources" : {
+"MyS3Bucket": {
+"Type": "AWS==S3==Bucket",
+"Properties": {
+"AccessControl": "{{resolve:ssm:S3AccessControl:1}}"
+}
+}
+}
+}  ```
+* *Safeguarding Cloudformation*
 	* Termination Protection
 		* Prompts disabling
 		* Set IAM role to ensure only specific users can change termination protection
@@ -199,27 +195,22 @@ DBInstanceIdentifier: 'rds-instance'
 	* Stack Policy
 		* Applied to one stack only
 		* Under console, Advanced Option in Cloudformation
-
-```
+		* ```{
+```"Statement" : [
 {
-"Statement" : [
-	{
-		"Effect" : "Allow",
-		"Action" : "Update:/",
-		"Principal": "/",
-		"Resource" : "/"
-	},
-	{
-		"Effect" : "Deny",
-		"Action" : "Update:/",
-		"Principal": "*",
-		"Resource" : "LogicalResourceId/ProductionDatabase"
-	}]
+"Effect" : "Allow",
+"Action" : "Update:/",
+"Principal": "/",
+"Resource" : "/"
+},
+{
+"Effect" : "Deny",
+"Action" : "Update:/",
+"Principal": "*",
+"Resource" : "LogicalResourceId/ProductionDatabase"
+}
+]
 }
 ```
 
-- This ONLY applies to updates, so update:delete etc, an actual deletion of the stack relies on the IAM role, so use termination protection instead.
-
-## CFN-Hup
-#blog #til #tech/aws
-CFN-Hup is a cloudformation daemon that detects and applies changes to the EC2 instance it's running on.
+- This ONLY applies to updates, so update:delete etc, an actual deletion of the stack relies on the IAM role, so use termination protection instead
