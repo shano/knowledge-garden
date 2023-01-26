@@ -1,4 +1,4 @@
-- Should accept any deployable artefact type
+	- Should accept any deployable artefact type
 	- [[Lambdas]] Zips
 	- [[ECR]] images
 	- [[EC2]] Amis
