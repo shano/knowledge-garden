@@ -18,4 +18,12 @@ Just a random collection of stuff I know.
 	- [[4 Stretches To Combat Shin Splints]]
 	- [[8 Of The Best Yoga Poses For Sleep Nod Off Faster And Wake Up Fresher]]
 - Linux
-	-
+	- [[flock]]
+	- [[cryptomount]]
+	- [[KDE Neon]]
+- Mindfulness
+	- [[82 days straight of meditation]]
+	- [[Guide - Meditation - Stoicism]]
+	- [[Guide - Tally Execise - Stoicism]]
+	- [[Guide - Tally Execise - Stoicism]]
+- PDP
