@@ -1,9 +1,9 @@
 Just a random collection of stuff I know.
 
--
+- [[AWS]]
+- [[Devops]]
 - Dev
 	- [[Git]]
-- [[Devops]]
 - Food
 	- [[3 Ingredient Cookies]]
 	- [[bbq]]
