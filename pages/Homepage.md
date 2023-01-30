@@ -26,4 +26,11 @@ Just a random collection of stuff I know.
 	- [[Guide - Meditation - Stoicism]]
 	- [[Guide - Tally Execise - Stoicism]]
 	- [[Guide - Tally Execise - Stoicism]]
-- PDP
+- PHP
+	- [[Guide to Developer in SugarCRM 7]]
+- Python
+	- [[How to match python regex groups]]
+	- [[Quick way to generate a bunch of strings from lists]]
+	- [[Setting up QGIS on Mac for Plugin Development]]
+- Tech
+	- [[crkbd]]
