@@ -1,0 +1,1 @@
+- Quite a handy start to using nixpg is just to come across a package you can't install through your traditional package manager

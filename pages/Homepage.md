@@ -21,7 +21,7 @@ Just a random collection of stuff I know.
 	- [[flock]]
 	- [[cryptomount]]
 	- [[KDE Neon]]
-	-
+	- [[nixpkg]]
 - Mindfulness
 	- [[82 days straight of meditation]]
 	- [[Guide - Meditation - Stoicism]]
