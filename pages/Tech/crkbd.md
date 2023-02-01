@@ -4,4 +4,5 @@ My primary keyboard is a [Corne Keyboard](https://github.com/foostan/crkbd) with
 -
 - Short Guide to writing your own layout
 	- Copy some existing layout and make your tweak to the keymap.c file
-	-
+	- Test by compiling: qmk compile -kb crkbd -km md
+	- Fas
