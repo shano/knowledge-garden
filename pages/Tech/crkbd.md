@@ -7,4 +7,4 @@ My primary keyboard is a [Corne Keyboard](https://github.com/foostan/crkbd) with
 	- Test by compiling: `qmk compile -kb crkbd -km md`
 	- Flash to your keyboard: `qmk flash -kb crkbd -km md`
 	- If you're happy convert it to json: `qmk c2json -kb crkbd -km md keyboards/crkbd/keymaps/md/keymap.c >> md.json`
-	- Upload to https://config.qmk.fm/ and print.
+		- Upload to https://config.qmk.fm/ and print.
