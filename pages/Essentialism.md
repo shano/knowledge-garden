@@ -37,13 +37,16 @@
 	- Restore play in your life, it's essential.
 		- Reduce stress, broadens your options. Try draw.
 	- Define your minimum and extreme criteria for evaluating opportunities. It should tick all boxes.
-	- Systems to keep thngs neat, don't let them build up.
+	- Systems to keep things neat, don't let them build up.
+	- Find your slowest hiker.
 - Buffers
 	- Capture all the big projects ahead of time, spend time upfront planning accordingly.
 	- Add 50 percent to all estimates
 	- What risk do we face on this project?
 	- What's is the worst case scenario?
-	-
+	- What would the social effect of this be?
+	- What would the financial impact of this be?
+	- How can you invest to reduce risks or strengthen financial or social resilience?
 - Discern what's truly essential
 	- Space to think
 	- Time to look and listen
