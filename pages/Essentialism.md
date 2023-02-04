@@ -38,7 +38,7 @@
 		- Reduce stress, broadens your options. Try draw.
 	- Define your minimum and extreme criteria for evaluating opportunities. It should tick all boxes.
 	- Systems to keep things neat, don't let them build up.
-	- Find your slowest hiker.
+	- Find your slowest hiker, the thing that holds you up the most.
 - Buffers
 	- Capture all the big projects ahead of time, spend time upfront planning accordingly.
 	- Add 50 percent to all estimates
@@ -64,6 +64,7 @@
 	- Find out your highest level of contribution. Define your essential intent. Inspirational, concrete, meaningful and measurable.
 	- "If we could be truly excellent at one thing what would it be?"
 	- Too many even good activities don't add up to a meaningful whole.
+	- Focus not on adding more, but ways to remove constraints or obstacles.
 - Saying no
 	- A clear no can be more graceful than a noncommital yes.
 	- Let me check my calendar and get back to you.
