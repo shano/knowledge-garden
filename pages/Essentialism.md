@@ -34,8 +34,7 @@
 	- Create a system to remove obstacles and make execution as easy as possible.
 	- Restore play in your life, it's essential.
 		- Reduce stress, broadens your options. Try draw.
-	- Define your essential criteria for evaluating decisions.
-		-
+	- Define your minimum and extreme criteria for evaluating opportunities. It should tick all boxes.
 - Discern what's truly essential
 	- Space to think
 	- Time to look and listen
