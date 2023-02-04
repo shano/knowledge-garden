@@ -64,7 +64,7 @@
 	- Find out your highest level of contribution. Define your essential intent. Inspirational, concrete, meaningful and measurable.
 	- "If we could be truly excellent at one thing what would it be?"
 	- Too many even good activities don't add up to a meaningful whole.
-	- Focus not on adding more, but ways to remove constraints or obstacles.
+	- Focus not on adding more, but ways to remove constraints or obstacles. But before this we need to know the essential intent.
 - Saying no
 	- A clear no can be more graceful than a noncommital yes.
 	- Let me check my calendar and get back to you.
