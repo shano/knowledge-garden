@@ -9,6 +9,8 @@
 - During the day
 	- Ask yourself frequently "Is this the most important thing I could be doing right now?'
 - Planning your day
+	- Spend 20 minutes reading something timeless.
+	- Invest in space to reflect
 	- Stop attending meetings you can't contribute to or can't get anything from
 	- Tell yourself
 		- I choose to
