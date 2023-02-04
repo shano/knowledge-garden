@@ -17,6 +17,7 @@
 		- What do I want to go big on?
 	- What problem do I want?
 	- Schedule blank space to think.
+	- Don't fill your day!
 - During the day
 	- Ask yourself frequently "Is this the most important thing I could be doing right now?'
 	- Keep a "less but better" journal
@@ -43,5 +44,6 @@
 	- What am I particularly talented at?
 	- What meets a significant need in the world?
 	- Celebrate listening, pondering, meditating and enjoying time with the most important people in our lives.
--
+- In the immediate
+	- What did you do as a child, could you reintroduce?
 	-
