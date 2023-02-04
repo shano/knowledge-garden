@@ -18,7 +18,7 @@
 	- What problem do I want?
 	- Schedule blank space to think.
 	- Don't fill your day! Budget your time with all bets are off.
-	- Minimum viable progress. As early as possible.
+	- Do the most difficult thing first, with minimum viable progress. As early as possible.
 	- Divide your week into themes.
 - During the day
 	- Ask yourself frequently "Is this the most important thing I could be doing right now?'
@@ -28,6 +28,8 @@
 	- Wait, observe, see how things develop.
 	- Set boundaries, capture "dealbreakers" when you feel put upon by someones request.
 	- Take 15 seconds to write down your objective before each meeting.
+- End of the day
+	- Brain dump everything down, what do I need to be
 - Monthly
 	- Read your "less but better" journal, find the lead!
 - Set yourself up for success
