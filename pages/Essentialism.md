@@ -37,6 +37,8 @@
 	- Restore play in your life, it's essential.
 		- Reduce stress, broadens your options. Try draw.
 	- Define your minimum and extreme criteria for evaluating opportunities. It should tick all boxes.
+	- Systems to keep thngs neat, don't let them build up.
+	- Add lots of buffers.
 - Discern what's truly essential
 	- Space to think
 	- Time to look and listen
