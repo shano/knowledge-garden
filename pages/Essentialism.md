@@ -29,7 +29,7 @@
 	- Set boundaries, capture "dealbreakers" when you feel put upon by someones request.
 	- Take 15 seconds to write down your objective before each meeting.
 - End of the day
-	- Brain dump everything down, what do I need to be
+	- Brain dump everything down, what do I need to be able to sleep peacefully?
 - Monthly
 	- Read your "less but better" journal, find the lead!
 - Set yourself up for success
