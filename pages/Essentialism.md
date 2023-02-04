@@ -17,7 +17,7 @@
 		- What do I want to go big on?
 	- What problem do I want?
 	- Schedule blank space to think.
-	- Don't fill your day!
+	- Don't fill your day! Budget your time with all bets are off.
 - During the day
 	- Ask yourself frequently "Is this the most important thing I could be doing right now?'
 	- Keep a "less but better" journal
