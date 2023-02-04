@@ -67,7 +67,7 @@
 	- What meets a significant need in the world?
 	- Celebrate listening, pondering, meditating and enjoying time with the most important people in our lives.
 - Leadership
-	- Lack of clarity in goals kills motivation. Leads to confusion, stress and frustration.
+	- Lack of clarity in goals kills motivation. Leads to confusion, stress and frustration. Clariaty equals success.
 	- Find out your highest level of contribution. Define your essential intent. Inspirational, concrete, meaningful and measurable.
 	- "If we could be truly excellent at one thing what would it be?"
 	- Too many even good activities don't add up to a meaningful whole.
