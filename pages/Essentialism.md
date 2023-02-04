@@ -50,7 +50,7 @@
 - Leadership
 	- Lack of clarity in goals kills motivation. Leads to confusion, stress and frustration.
 	- Find out your highest level of contribution. Define your essential intent. Inspirational, concrete, meaningful and measurable.
-	-
+	- "If we could be truly excellent at one thing what would it be?"
 	- Too many even good activities don't add up to a meaningful whole.
 - In the immediate
 	- What did you do as a child, could you reintroduce?
