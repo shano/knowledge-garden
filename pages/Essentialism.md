@@ -1,0 +1,3 @@
+- During the day
+	- Ask yourself frequently "Is this the most important thing I could be doing right now?'
+	-
