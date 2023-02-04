@@ -30,6 +30,7 @@
 		- Never ignore the reality of trade offs, avoid the straggled strategy.
 	- Create a system to remove obstacles and make execution as easy as possible.
 	- Restore play in your life
+		-
 - Discern what's truly essential
 	- Space to think
 	- Time to look and listen
