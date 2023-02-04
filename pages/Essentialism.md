@@ -38,9 +38,12 @@
 		- Reduce stress, broadens your options. Try draw.
 	- Define your minimum and extreme criteria for evaluating opportunities. It should tick all boxes.
 	- Systems to keep thngs neat, don't let them build up.
-	- Add lots of buffers.
+- Buffers
 	- Capture all the big projects ahead of time, spend time upfront planning accordingly.
 	- Add 50 percent to all estimates
+	- What risk do we face on this project?
+	- What's is the worst case scenario?
+	-
 - Discern what's truly essential
 	- Space to think
 	- Time to look and listen
