@@ -29,6 +29,7 @@
 	- Permission to play
 	- Wisdom to sleep
 	- Discipline to apply highly selective criteria to the choices we make
+	- Avoid the latest
 - What matters?
 	- What do I feel deeply inspired by?
 	- What am I particularly talented at?
