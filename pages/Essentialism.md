@@ -4,11 +4,15 @@
 	- Stop saying yes and make your highest contribution towards things that really matter.
 	- Make execution effortless
 	- Live a life true to myself, not the life others expected of me
-	- Disciplined pursuit of less not
+	- Disciplined pursuit of less not undisciplined pursuit of less.
 - During the day
 	- Ask yourself frequently "Is this the most important thing I could be doing right now?'
 - Planning your day
 	- Stop attending meetings you can't contribute to or can't get anything from
+	- Tell yourself
+		- I choose to
+		- Only a few things matter
+		- I can do anything not everything
 - Set yourself up for success
 	- Reduce your choices, and protect your ability to evaluate the importance of things. "Design fatigue" is a thing.
 	- Make a conscious effort to keep what's important organised.
