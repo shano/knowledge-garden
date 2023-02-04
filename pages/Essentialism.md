@@ -16,6 +16,7 @@
 		- I can do anything not everything
 		- What do I want to go big on?
 	- What problem do I want?
+	- Schedule blank space to think.
 - Set yourself up for success
 	- Reduce your choices, and protect your ability to evaluate the importance of things. "Design fatigue" is a thing.
 	- Make a conscious effort to keep what's important organised.
