@@ -6,8 +6,6 @@
 	- Live a life true to myself, not the life others expected of me
 	- Disciplined pursuit of less not undisciplined pursuit of less.
 	- Don't learn to be helpless, a function of other peoples desires.
-- During the day
-	- Ask yourself frequently "Is this the most important thing I could be doing right now?'
 - Planning your day
 	- Spend 20 minutes reading something timeless.
 	- Invest in space to reflect
@@ -19,6 +17,11 @@
 		- What do I want to go big on?
 	- What problem do I want?
 	- Schedule blank space to think.
+- During the day
+	- Ask yourself frequently "Is this the most important thing I could be doing right now?'
+	- Keep a "less but better" journal
+- Monthly
+	- Read your "less but better" journal, look for trends.
 - Set yourself up for success
 	- Reduce your choices, and protect your ability to evaluate the importance of things. "Design fatigue" is a thing.
 	- Make a conscious effort to keep what's important organised.
