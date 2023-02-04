@@ -4,6 +4,7 @@
 	- Stop saying yes and make your highest contribution towards things that really matter.
 	- Make execution effortless
 	- Live a life true to myself, not the life others expected of me
+	- Disciplined pursuit of less not
 - During the day
 	- Ask yourself frequently "Is this the most important thing I could be doing right now?'
 - Planning your day
@@ -16,4 +17,5 @@
 	- What do I feel deeply inspired by?
 	- What am I particularly talented at?
 	- What meets a significant need in the world?
+	- Celebrate listening, pondering, meditating and enjoying time with the most important people in our lives.
 	-
