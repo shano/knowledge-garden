@@ -23,6 +23,12 @@
 		- Note if you're powerless yet hyperactive.
 		- Never ignore the reality of trade offs, avoid the straggled strategy.
 	- Create a system to remove obstacles and make execution as easy as possible.
+- Discern what's truly essential
+	- Space to think
+	- Time to look and listen
+	- Permission to play
+	- Wisdom to sleep
+	- Discipline to apply highly selective criteria to the choices we make
 - What matters?
 	- What do I feel deeply inspired by?
 	- What am I particularly talented at?
