@@ -29,8 +29,8 @@
 		- Note if you're powerless yet hyperactive.
 		- Never ignore the reality of trade offs, avoid the straggled strategy.
 	- Create a system to remove obstacles and make execution as easy as possible.
-	- Restore play in your life
-		-
+	- Restore play in your life, it's essential.
+		- Reduce stress, broadens your options. Try draw.
 - Discern what's truly essential
 	- Space to think
 	- Time to look and listen
@@ -43,4 +43,5 @@
 	- What am I particularly talented at?
 	- What meets a significant need in the world?
 	- Celebrate listening, pondering, meditating and enjoying time with the most important people in our lives.
+-
 	-
