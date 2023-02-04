@@ -3,8 +3,11 @@
 	- Get the right things gone
 	- Stop saying yes and make your highest contribution towards things that really matter.
 	- Make execution effortless
+	-
 - During the day
 	- Ask yourself frequently "Is this the most important thing I could be doing right now?'
 - Planning your day
 	- Stop attending meetings you can't contribute to or can't get anything from
--
+- Set yourself up for success
+	- Reduce your choices, and protect your ability to evaluate the importance of things. "Design fatigue" is a thing.
+	-
