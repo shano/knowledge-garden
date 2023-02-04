@@ -54,7 +54,10 @@
 	- Too many even good activities don't add up to a meaningful whole.
 - Saying no
 	- A clear no can be more graceful than a noncommital yes.
-	-
+	- Let me check my calendar and get back to you.
+	- Yes, what should I deprioritise.
+	- Slow yes, quick no.
 - In the immediate
 	- What did you do as a child, could you reintroduce?
+	- Review and eliminate your non-essential activities.
 	-
