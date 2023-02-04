@@ -19,6 +19,7 @@
 	- Schedule blank space to think.
 	- Don't fill your day! Budget your time with all bets are off.
 	- Minimum viable progress. As early as possible.
+	- Divide your week into themes.
 - During the day
 	- Ask yourself frequently "Is this the most important thing I could be doing right now?'
 	- Keep a "less but better" journal
