@@ -50,6 +50,7 @@
 - Leadership
 	- Lack of clarity in goals kills motivation. Leads to confusion, stress and frustration.
 	- Find out your highest level of contribution.
+	- Too many even good activities don't add up to a meaningful whole.
 - In the immediate
 	- What did you do as a child, could you reintroduce?
 	-
