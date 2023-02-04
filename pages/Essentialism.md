@@ -1,5 +1,8 @@
 - Philosophy
-	- Stop saying yes
+	- Less but better
+	- Get the right things gone
+	- Stop saying yes and make your highest contribution towards things that really matter.
+	-
 - During the day
 	- Ask yourself frequently "Is this the most important thing I could be doing right now?'
 - Planning your day
