@@ -23,6 +23,8 @@
 	- Keep a "less but better" journal
 	- If the answer isn't a definite yes, it's a no. What's the most important criterion for the decision, if it's less than 90% reject it.
 	- Don't do because others ask.
+	- Wait, observe, see how things develop.
+	- Set boundaries.
 - Monthly
 	- Read your "less but better" journal, find the lead!
 - Set yourself up for success
@@ -57,7 +59,8 @@
 	- Let me check my calendar and get back to you.
 	- Yes, what should I deprioritise.
 	- Slow yes, quick no.
+	- Enabling them to
 - In the immediate
 	- What did you do as a child, could you reintroduce?
-	- Review and eliminate your non-essential activities.
+	- Review and eliminate your non-essential activities. Scale back activities and assess if there's any meaningful impact.
 	-
