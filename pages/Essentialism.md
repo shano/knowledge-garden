@@ -5,7 +5,7 @@
 	- Make execution effortless
 	- Live a life true to myself, not the life others expected of me
 	- Disciplined pursuit of less not undisciplined pursuit of less.
-	- Don't learn to be helpless!
+	- Don't learn to be helpless, a function of other peoples desires.
 - During the day
 	- Ask yourself frequently "Is this the most important thing I could be doing right now?'
 - Planning your day
