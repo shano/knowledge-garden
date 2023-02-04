@@ -39,6 +39,8 @@
 	- Define your minimum and extreme criteria for evaluating opportunities. It should tick all boxes.
 	- Systems to keep thngs neat, don't let them build up.
 	- Add lots of buffers.
+	- Capture all the big projects ahead of time, spend time upfront planning accordingly.
+	- Add 50 percent to all estimates
 - Discern what's truly essential
 	- Space to think
 	- Time to look and listen
