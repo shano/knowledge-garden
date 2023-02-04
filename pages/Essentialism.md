@@ -42,6 +42,7 @@
 	- Systems to keep things neat, don't let them build up.
 	- Find your slowest hiker, the thing that holds you up the most.
 	- Start small, celebrate progress.
+	- Design a routine and be consistent till it's effortless.
 - Buffers
 	- Capture all the big projects ahead of time, spend time upfront planning accordingly.
 	- Add 50 percent to all estimates
@@ -69,6 +70,7 @@
 	- Too many even good activities don't add up to a meaningful whole.
 	- Focus not on adding more, but ways to remove constraints or obstacles. But before this we need to know the essential intent.
 	- Avoid big hyped up projects that never got anywhere.
+	- Visually reward progress.
 - Saying no
 	- A clear no can be more graceful than a noncommital yes.
 	- Let me check my calendar and get back to you.
