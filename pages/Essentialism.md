@@ -47,6 +47,8 @@
 	- What am I particularly talented at?
 	- What meets a significant need in the world?
 	- Celebrate listening, pondering, meditating and enjoying time with the most important people in our lives.
+- Leadership
+	- Lack of clarity in goals kills motivation. Leads to confusion, stress and frustration.
 - In the immediate
 	- What did you do as a child, could you reintroduce?
 	-
