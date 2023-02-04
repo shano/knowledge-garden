@@ -33,5 +33,6 @@ Just a random collection of stuff I know.
 	- [[How to match python regex groups]]
 	- [[Quick way to generate a bunch of strings from lists]]
 	- [[Setting up QGIS on Mac for Plugin Development]]
+-
 - Tech
 	- [[crkbd]]
