@@ -17,7 +17,7 @@
 	- Reduce your choices, and protect your ability to evaluate the importance of things. "Design fatigue" is a thing.
 	- Make a conscious effort to keep what's important organised.
 		- Notice if you've given up your power to choose bit by bit.
-		- Note if you're
+		- Note if you're powerless yet hyperactive.
 	- Create a system to remove obstacles and make execution as easy as possible.
 - What matters?
 	- What do I feel deeply inspired by?
