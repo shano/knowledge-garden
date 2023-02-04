@@ -21,6 +21,7 @@
 - During the day
 	- Ask yourself frequently "Is this the most important thing I could be doing right now?'
 	- Keep a "less but better" journal
+	- If the answer isn't a definite yes, it's a no. What's the most important criterion for the decision, if it's less than 90%
 - Monthly
 	- Read your "less but better" journal, find the lead!
 - Set yourself up for success
