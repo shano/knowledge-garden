@@ -21,7 +21,7 @@
 	- Ask yourself frequently "Is this the most important thing I could be doing right now?'
 	- Keep a "less but better" journal
 - Monthly
-	- Read your "less but better" journal, look for trends.
+	- Read your "less but better" journal, find the lead!
 - Set yourself up for success
 	- Reduce your choices, and protect your ability to evaluate the importance of things. "Design fatigue" is a thing.
 	- Make a conscious effort to keep what's important organised.
@@ -29,6 +29,7 @@
 		- Note if you're powerless yet hyperactive.
 		- Never ignore the reality of trade offs, avoid the straggled strategy.
 	- Create a system to remove obstacles and make execution as easy as possible.
+	- Restore play in your life
 - Discern what's truly essential
 	- Space to think
 	- Time to look and listen
