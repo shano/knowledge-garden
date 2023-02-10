@@ -1,2 +1,2 @@
 - The ability to create public snapshots on an account should be blocked from any [[IAM]]
-- Any public snapshots that appear
+- Public snapshots that appear in your AWS accounts may not have originated there, check the owners id, it's the source account id.
