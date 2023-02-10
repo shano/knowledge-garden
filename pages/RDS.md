@@ -1,0 +1,2 @@
+- The ability to create public snapshots on an account should be blocked from any [[IAM]]
+- Any public snapshots that appear
